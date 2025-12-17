@@ -134,10 +134,10 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #000000 /*#777*/;
 		font-weight: 700;
 		line-height: 1em;
-		margin: 0 0 0.5625em 0;
+		margin: 0 0 0.8em 0; /* third position original 0.5625em */
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2449,7 +2449,7 @@ input, select, textarea {
 	}
 
 	table {
-		margin: 0 0 2.25em 0;
+		margin: 1.5em 0 2.25em 0;
 		width: 100%;
 	}
 
