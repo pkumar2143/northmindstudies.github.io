@@ -3356,6 +3356,9 @@ input, select, textarea {
 	padding: 5px;
 }
 
+mark {
+	background-color: #910101; /*#39c29d*/;
+}
 
 
 
